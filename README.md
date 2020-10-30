@@ -1,4 +1,4 @@
-# Tandemcodechallenge
+# Tandem Code Challenge
 
 This is my submission for the Tandem code challenge. In future iterations I would have loved to add some animation and gamify the app more by using a trivia API and allowing the user to choose different catagories of trivia. I would also like to add some unit testing, and refine the UI/UX to make the app more polished. This would also be an app I'd enjoy making mobile with React-Native. 
 
